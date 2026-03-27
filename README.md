@@ -1,12 +1,10 @@
 ---
-title: DeepSite Project
+title: Micheal's Project
 colorFrom: pink
 colorTo: purple
 sdk: static
 emoji: 🎉
-tags:
-  - deepsite-v4
----
 
-# DeepSite Project
+
+# Micheal's Project
 
